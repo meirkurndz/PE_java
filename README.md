@@ -1,2 +1,2 @@
 # PE_java
-my java solutions to project euler
+my java solutions for project euler
